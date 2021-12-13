@@ -12,5 +12,3 @@ if (ans):
     print("Yes")
 else:
     print("No")
-
-print("env to program")
